@@ -1,0 +1,131 @@
+
+.one{
+    
+    padding: 0px 260px 300px 30px;
+    background-color: red;
+    text-align:right;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+.one-1{
+    position: relative;
+    top: 120px;
+    left: 90px;
+}
+.two{
+    
+    padding: 0px 845px 108px 0px;
+    background-color: yellow;
+    text-align:right;
+    position: fixed;
+    top: 0px;
+    left: 355px;
+}
+.two-1{
+     position: relative;
+    top: 50px;
+    left: 370px; 
+}
+/*  this css is four */
+.three{
+        
+    padding: 0px 836px 110px 0px;
+    background-color: green;
+    text-align:right;
+    position: fixed;
+    top: 190px;
+    left: 355px;
+
+}
+.three-1{
+    position: relative;
+   top: 50px;
+   left: 360px; 
+}
+/* this css is for three */
+.four{
+    padding: 0px 180px 300px 0px;
+    background-color: rgba(170, 8, 170, 0.87);
+    text-align:right;
+    position: fixed;
+    top: 0px;
+    left: 1268px;
+
+
+}
+.four-1{
+    position: relative;
+   top: 150px;
+   left: 90px; 
+}
+
+.five{
+    padding: 0px 800px 120px 30px;
+    background-color: orange;
+    text-align:right;
+    position: fixed;
+    top: 382px;
+    left: 0px;
+
+
+}
+.five-1{
+   
+        position: relative;
+        top: 50px;
+        left: 250px;
+    
+}
+.eight{
+    padding: 0px 1000px 120px 30px;
+    background-color:rgb(194, 150, 92);
+    text-align:right;
+    position: fixed;
+    top: 584px;
+    left: 0px;
+
+
+}
+.eight-1{
+    position: relative;
+    top: 50px;
+    left: 500px;
+
+}
+
+
+.six{
+    padding: 0px 132px 120px 30px;
+    background-color: skyblue;
+    text-align:right;
+    position: fixed;
+    top: 382px;
+    left: 898px;
+}
+.six-1{
+    
+        position: relative;
+        top: 55px;
+        left: 45px;
+}
+.seven{
+
+    padding: 0px 298px 290px 30px;
+    background-color: rgb(41, 21, 116);
+    text-align:right;
+    position: fixed;
+    top: 382px;
+    left: 1115px;
+
+}
+.seven-1{
+    
+    position: relative;
+    top: 150px;
+    left: 140px;
+}
+
+    
+   
+
