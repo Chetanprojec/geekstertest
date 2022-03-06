@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    color: aqua;
+    font-size: 50px;
+
+}
+.mobiles{
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.samsung{
+    display: flex;
+    justify-content: space-around;
+    
+    
+    
+}
+
+.vivo{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.oppo{
+    display: flex;
+    justify-content: space-around;
+
+
+}
+span > button{
+    width: 100px;
+    height: 40px;
+}
+
+ .disp{
+    display: none;
+}    
+.one{
+    display:flex;
+    
+}
+
+.two{
+    display: flex;
+}
+
+.three{
+    display: flex;
+}
